@@ -1,5 +1,5 @@
 # MoneyMaker-wiki
-<img src="/logo for MeneyMaker.png" alt="alt text" width="200" height="200"><br>
+<div ><img src="/logo for MeneyMaker.png" alt="alt text" width="150" height="150"></div><br>
 送给技术人的商业知识手册 📓 ｜Business Knowledge Handbook for Hackers 🍻
 
 ## Hi, 你好 👋
