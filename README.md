@@ -1,5 +1,7 @@
 # MoneyMaker-wiki
+<img src="/logo for MeneyMaker.png" alt="alt text" width="200" height="200"><br>
 送给技术人的商业知识手册 📓 ｜Business Knowledge Handbook for Hackers 🍻
+
 ## Hi, 你好 👋
 欢迎来到 MoneyMaker-wiki，这里是一个为技术人酿造的商业知识手册，希望能够帮助到你，使你能够运用技术手段在商业世界中获取成就，助力你的事业 🚀
 
