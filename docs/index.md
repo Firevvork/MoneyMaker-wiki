@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "MoneyMaker-wiki"
-  text: "送给技术人的商业知识手册 📓 ｜Business Knowledge Handbook for Hackers 🍻"
-  tagline: My great project tagline
+  name: "MoneyMaker"
+  text: "送给技术人的商业知识手册 🍻"
+  tagline: 
+  image:
+    src: /logo.png
+    alt: VitePress
   actions:
     - theme: brand
       text: Markdown Examples
