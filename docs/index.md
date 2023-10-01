@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /markdown-examples
+      link: /examples/markdown-examples
     - theme: alt
       text: 参与贡献
       link: /api-examples

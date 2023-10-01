@@ -15,18 +15,13 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '正文',
+        text: 'Reference',
         items: [
           {
-            text: '欢迎来到王者荣耀',
+            items: [
+              { text: '我们聊点啥', link: '/chat-about-something.md' },
+            ]
           }
-        ]
-      },
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
     ],
