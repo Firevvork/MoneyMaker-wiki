@@ -18,11 +18,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: 筑构商业知识🧠
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: 技术改变世界🔥
+    details: 
+  - title: 与社区伙伴共同成长🚀
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
