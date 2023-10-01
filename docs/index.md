@@ -8,13 +8,13 @@ hero:
   tagline: 
   image:
     src: /logo.png
-    alt: VitePress
+    alt: logo
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Get Started
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 参与贡献
       link: /api-examples
 
 features:
