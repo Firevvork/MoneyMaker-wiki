@@ -15,11 +15,11 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Reference',
+        text: '第一章：商业知识基础',
         items: [
           {
             items: [
-              { text: '我们聊点啥', link: '/chat-about-something.md' },
+              { text: '从摆脱打工人思维开始', link: '/chat-about-something.md' },
             ]
           }
         ]

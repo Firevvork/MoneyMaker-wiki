@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "MoneyMaker"
-  text: "送给技术人的商业知识手册 🍻"
+  text: "送给程序员的商业知识手册 🍻"
   tagline: 
   image:
     src: /logo.png
@@ -19,9 +19,9 @@ hero:
 
 features:
   - title: 筑构商业知识🧠
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: 文档式商业知识构建，拥有“商业脑”。
   - title: 技术改变世界🔥
-    details: 
+    details: 技术是改变世界的最本源力量，我们坚信不移。
   - title: 与社区伙伴共同成长🚀
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
